@@ -1,0 +1,16 @@
+{
+    "name": "andres/36-psr",
+    "authors": [
+        {
+            "name": "Andres",
+            "email": "sjandres184@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Libs\\": "libs/"
+            
+        }
+    },
+    "require": {}
+}
